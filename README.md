@@ -1,2 +1,3 @@
 # test
 gpg
+gpg2
